@@ -91,7 +91,7 @@ Deploy the model as a real-time fraud detection API
 Kaggle: Credit Card Fraud Detection Dataset
 CTGAN: Modeling Tabular Data using GANs
 Synthetic Data Vault (SDV) Documentation
-Scikit-learn Documentation: https://scikit-learn.org/
+Scikit-learn Documentation
 Matplotlib & Seaborn Docs for Visualization
 
 👨‍💻 Author
@@ -106,6 +106,3 @@ B.Tech (3rd Year) | AI & Cloud Intern (GNCIPL)
    streamlit run app.py
 4. Open the provided URL in your browser.
 
-## Deployment
-- Push this folder to GitHub.
-- Deploy on Streamlit Cloud: https://streamlit.io/cloud
